@@ -1,0 +1,41 @@
+1) O que são métodos HTTP?
+O protocolo HTTP define um conjunto de métodos para indicar qual ação deve ser 
+realizada no recurso especificado.
+
+2) Quais são os métodos HTTP mais utilizados atualmente?
+São GET, POST, PUT, DELETE
+
+3) Quais são os 2 principais métodos do HTTP? Qual é a diferença entre eles?
+o dois principais são GET e POST. Get faz requisições que retornam dados e POST submete dados
+para o servidor
+
+4) O que são requisições HTTP? Quais os tipos?
+As requisições são as mensagens enviadas pelo cliente para o servidor. Os métodos são GET,
+POST, PUT, DELETE, HEAD, TRACE, OPTIONS e CONNECT
+
+5) Como funciona uma requisição?
+o cliente envia mensagens pelo cliente para iniciar uma ação no servidor e as réplicas dos 
+servidores, chamadas de respostas, podem conter algum conteúdo ou informações sobre o 
+status da requisição.
+
+6) O que é o método GET?
+Get é método de requisições que retorna dados 
+
+7) Qual é o protocolo de internet para transferência segura, com uso de certificado digital, utilizado em sites de compras eletrônicas?
+Protocolo HTTPS
+
+8) Quais os principais métodos de uma requisição REST?
+GET, PUT, POST, PATCH e DELETE
+
+9) Qual a diferença entre IPv4 e IPv6?
+IPv6 é o protocolo de Internet 6 é a versão 6 do Protocolo de Internet, com endereços no
+padrão 128 bits, permitindo, portanto, cerca de 340 undecilhões de endereços, enquanto, o IPv4
+possui endereços de 32 bits que sustenta somente 4 bilhões de combinações de endereço de IP
+
+10) Faça um resumo sobre os seguintes protocolos: http, tcp, ip, udp, smtp e ftp.
+http: Faz conexão entre servidor e cliente, faz solicitação e recebe resposta
+tcp: Responsável pelo controle de fluxo
+ip: conjunto de protocolos que facilitam a comunicação entre duas máquinas conectadas à rede
+udp: Responsável pela organização e a transformação deles em pacotes menores
+smtp: Protocolo voltado para o envio de mensagens eletrônicas
+ftp: Transfere dados entre duas máquinas pela rede
